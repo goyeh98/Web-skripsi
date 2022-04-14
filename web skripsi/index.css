@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    background-color: rgb(243, 239, 239);
+}
+
+.body1{
+    z-index: auto;
+    margin: auto;
+    margin-top: 20vh ;
+    border-radius: 15% 0% 15% 0%;
+    width: 75%;
+    height: 60vh;
+    background: rgb(219, 214, 214);
+    box-shadow: 5px 5px 5px rgb(10, 10, 10, .50);
+}
+
+/* index html */
+
+.kotakform{
+    background-color: blue;
+    width: 50%;
+    margin-right: auto;
+}
+
+.form{
+    margin-left: 90vh;
+    padding-top: 10vh;    
+}
+.form1{
+    margin-left: 90vh;
+}
+
+/* form html */
+
+.form2{
+    margin-left: 90vh;
+    padding-top:;    
+}
+.form3{
+    margin-left: 90vh;
+}
